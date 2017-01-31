@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dificultats>
+
+  <dif category="easy">
+    <caselles> 18 </caselles>
+    <v_inicial> 300 </v_inicial>
+    <tiempo> 400 </tiempo>
+    <ini_pomes> 1 </ini_pomes>
+    <murs> 7 </murs>
+  </dif>
+
+  <dif2 category="medium">
+    <caselles> 14 </caselles>
+    <v_inicial> 200 </v_inicial>
+    <tiempo> 200 </tiempo>
+    <ini_pomes> 2 </ini_pomes>
+    <murs> 15 </murs>
+  </dif2>
+  
+  <dif3 category="hard">
+    <caselles> 10 </caselles>
+    <v_inicial> 100 </v_inicial>
+    <tiempo> 100 </tiempo>
+    <ini_pomes> 4 </ini_pomes>
+    <murs> 25 </murs>
+  </dif3>
+  
+ </dificultats>
+
